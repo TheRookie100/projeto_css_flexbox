@@ -14,7 +14,7 @@ Adicione o atributo lang à tag de abertura <html> com en definido como o valor.
 Adicione também uma meta tag com o conjunto de caracteres definido como UTF-8.</p>
 
 <h4>Passo 3</h4>
-<p>>- No elemento head, adicione um elemento title com o texto definido como Galeria de fotos e um elemento link para adicionar seu arquivo styles.css à página.</p>
+<p>- No elemento head, adicione um elemento title com o texto definido como Galeria de fotos e um elemento link para adicionar seu arquivo styles.css à página.</p>
 
 <h4>Passo 4</h4>
 <p>- Adicione um elemento de cabeçalho dentro do elemento de corpo e atribua uma classe de cabeçalho a ele.
